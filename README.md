@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 
-<h3 align="center">Cybersecurity Student | Developer | Solo Traveler</h3>
+<h3 align="center">Cybersecurity Student | SOC &amp; Detection Engineering | Developer</h3>
 
 
 
 <p align="center">
 
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&duration=4000&color=00A3FF&center=true&vCenter=true&lines=Cybersecurity+Warrior+%7C+ICSA-007;Developer+%7C+Python+%26+Automation;Traveler+%7C+Content+Creator;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&duration=4000&color=00A3FF&center=true&vCenter=true&lines=Cybersecurity+Warrior+%7C+ICSA-007;Developer+%7C+Python+%26+Automation;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -16,16 +16,13 @@
 
 ## 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://instagram.com/thakor_chandoo">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/chandan-kumar-2b14b7214">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/thakor_chandoo">
     <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
-  <a href="mailto:thakorchandankumar15@gmail.com">
+  <a href="mailto:chandankumar.security@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -81,6 +78,16 @@
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
 
+
+## 🧪 **Featured Projects**
+
+| Project | What it does |
+|---|---|
+| [**intellidetect-siem**](https://github.com/alexbro1331/intellidetect-siem) | Detection-engineering and alert-triage pipeline: Sigma and stateful rules, incident correlation, explainable risk scoring, MITRE ATT&CK mapping. 103 tests, CI. |
+| [**phishscan**](https://github.com/alexbro1331/phishscan) | Phishing email triage console: explainable verdicts, IOC extraction, MITRE mapping, CLI + web app + Docker. |
+| [**soc-notes**](https://github.com/alexbro1331/soc-notes) | Study notes and cheat sheets: Linux, Bash, Python for SOC automation. |
+
+---
 
 ## 🛡️ **Cybersecurity Journey**
 
@@ -151,8 +158,6 @@
 
 - I break things to learn how to fix them 🔐  
 
-- I travel solo… and code solo too 😄  
-
 - Coffee + Kali Linux = Perfect combo ☕🐉  
 
 
@@ -171,11 +176,9 @@ I’m always open to:
 
 - Automation scripts  
 
-- Travel creator collaborations  
 
 
-
-📩 **Email:** *thakorchandankumar15@gmail.com*
+📩 **Email:** *chandankumar.security@gmail.com*
 
 
 
