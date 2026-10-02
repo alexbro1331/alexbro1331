@@ -83,9 +83,9 @@
 
 | Project | What it does |
 |---|---|
-| [**intellidetect-siem**](https://github.com/alexbro1331/intellidetect-siem) | Detection-engineering and alert-triage pipeline: Sigma and stateful rules, incident correlation, explainable risk scoring, MITRE ATT&CK mapping. 103 tests, CI. |
-| [**phishscan**](https://github.com/alexbro1331/phishscan) | Phishing email triage console: explainable verdicts, IOC extraction, MITRE mapping, CLI + web app + Docker. |
-| [**soc-notes**](https://github.com/alexbro1331/soc-notes) | Study notes and cheat sheets: Linux, Bash, Python for SOC automation. |
+| [**intellidetect-siem**](https://github.com/chandankumar-sec/intellidetect-siem) | Detection-engineering and alert-triage pipeline: Sigma and stateful rules, incident correlation, explainable risk scoring, MITRE ATT&CK mapping. 103 tests, CI. |
+| [**phishscan**](https://github.com/chandankumar-sec/phishscan) | Phishing email triage console: explainable verdicts, IOC extraction, MITRE mapping, CLI + web app + Docker. |
+| [**soc-notes**](https://github.com/chandankumar-sec/soc-notes) | Study notes and cheat sheets: Linux, Bash, Python for SOC automation. |
 
 ---
 
@@ -108,14 +108,14 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexbro1331&theme=dark&hide_border=false&count_private=true" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=alexbro1331&theme=dark&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandankumar-sec&theme=dark&hide_border=false&count_private=true" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chandankumar-sec&theme=dark&hide_border=false" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbro1331&theme=dark&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandankumar-sec&theme=dark&hide_border=false&layout=compact"/>
 </div>
 
 
@@ -128,7 +128,7 @@
 
 <p align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=alexbro1331&theme=radical&no-frame=false&no-bg=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chandankumar-sec&theme=radical&no-frame=false&no-bg=true&margin-w=15"/>
 
 </p>
 
